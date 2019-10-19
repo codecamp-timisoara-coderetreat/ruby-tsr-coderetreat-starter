@@ -4,7 +4,7 @@
 bundle install
 ```
 
-##Running a Ruby Program
+## Running a Ruby Program
 ```
 ruby hello.rb
 ```
